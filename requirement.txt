@@ -1,0 +1,13 @@
+pip freeze > requirement.txt
+python -m venv env
+
+pandas 
+netCDF4
+geopandas
+shapely
+numpy
+itertools
+matplotlib
+descartes
+seaborn
+plotly
