@@ -11,3 +11,6 @@ matplotlib
 descartes
 seaborn
 plotly
+statsmodels
+arch
+prettytable
