@@ -1,0 +1,36 @@
+name: geo_env
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.9
+  - pandas
+  - netCDF4
+  - geopandas
+  - shapely
+  - numpy
+  - itertools
+  - matplotlib
+  - descartes
+  - seaborn
+  - plotly
+  - statsmodels
+  - arch
+  - prettytable
+  - warnings
+  - geostatsmodels
+  - scipy
+  - pip
+  - nbconvert
+  - nbformat
+  - jupyterlab
+  - jupyterlab_widgets
+  - pandoc
+  - pandocfilters
+  - texlive-core  # Dependencias para la conversión a PDF
+  - texlive-latexextra  # Dependencias para la conversión a PDF
+  - os
+  - pip:
+    - jupyter_contrib_nbextensions
+    - jupyter_nbextensions_configurator
+  # Agrega más paquetes aquí si es necesario
