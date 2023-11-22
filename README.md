@@ -32,7 +32,7 @@ Para replicar el entorno de trabajo, se proporciona un archivo `environment.yml`
 
 ## Guía de Uso
 
-- Clona este repositorio: `git clone https://github.com/tu_usuario/tu_proyecto.git`
+- Clona este repositorio: `git clone https://github.com/reivajlow/Geo.git`
 - Crea y activa el entorno de Conda: `conda env create -f environment.yml && conda activate mi_entorno`
 - Abre los notebooks: `jupyter notebook`
   
