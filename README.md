@@ -24,7 +24,7 @@ El gráfico generado muestra la fracción molar de CO2 en la troposfera libre, u
 
 ### Notebooks
 
-- `note.ipynb`: Notebook principal con el análisis de datos.
+- `note.ipynb`: [Notebook principal](note.ipynb) con el análisis de datos.
 
 ## Configuración del Entorno
 
